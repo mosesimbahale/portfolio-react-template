@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Moses Imbahale",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I am accustomed to working well with a diverse team, respectful to other people's ideas, self-motivated, and a gifted software developer focused on learning new technologies and finding creative ways to solve problems. I am an integral person with an ability to function well independently.  ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -71,6 +71,16 @@ const skillsBar = [
     // svg: '',
     faClass: "fas fa-database",
   },
+
+  {
+    name: "Android",
+    // svg: '',
+    faClass: "fab fa-css3",
+  },
+
+
+
+
   {
     name: "AWS",
     // svg: '',
