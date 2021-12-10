@@ -1,14 +1,15 @@
+<!--
 # Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kaustubhai/portfolio-template?color=blue)](https://github.com/kaustubhai/portfolio-template/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kaustubhai/portfolio-template)](https://github.com/kaustubhai/portfolio-template/stargazers)
 
 ## A clean, beautiful and responsive react portfolio template for Developers!
 
-<!--
+
 <p align="center">
   <kbd>
 <img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
   </kbd>
 </p>
--->
+
 
 Just change `src/profile.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
@@ -121,5 +122,5 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
+-->
 ---
